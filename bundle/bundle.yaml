@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "emartinez-ratings-ops-controller"
 description: "CloudBees CI configuration bundle for the emartinez-ratings ops-controller Controller"
 parent: "base"
