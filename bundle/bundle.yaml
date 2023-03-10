@@ -3,6 +3,8 @@ version: "1"
 id: "emartinez-ratings-ops-controller"
 description: "CloudBees CI configuration bundle for the emartinez-ratings ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/emartinez-ratings/ops-controller"
+# also wildcards and java regex: .* for general availability 
+# directed at the operations center, and is not part of the configuration of the controllers but rather how the cjoc will make them available
 jcasc:
   - "jenkins.yaml"
 plugins:
