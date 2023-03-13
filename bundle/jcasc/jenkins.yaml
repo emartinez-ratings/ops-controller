@@ -21,7 +21,7 @@ unclassified:
     - "build"
     - "web"
     enabled: true
-    gracePeriod: 1500000
+    gracePeriod: 1500
   gitHubConfiguration:
     apiRateLimitChecker: ThrottleForNormalize
   gitHubPluginConfig:
